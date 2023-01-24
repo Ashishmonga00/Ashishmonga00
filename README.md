@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MySQL,SpringBoot,JAVA,HTML,CSS,JavaScript**
 
-- 📄 Know about my experiences [[https://1drv.ms/b/s!AsKOUoywUAP7c5XfRxNzSOMHXlY?e=oSSLHI](https://drive.google.com/file/d/1Ih2A83luOFedHD-CDTFcEUMxjGt2WCXU/view?usp=share_link)]
+- 📄 Know about my experiences [https://1drv.ms/b/s!AsKOUoywUAP7c-xtUVtfVJM0S08?e=NbdcWp]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
